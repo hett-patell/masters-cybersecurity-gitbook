@@ -14,19 +14,19 @@
 
 ## Verified automatic awards ✅
 
-| University | Award | Amount | Confirmed |
+| University | Award | Amount | Your eligibility (CGPA 8.03) |
 |---|---|---|---|
-| **Lancaster** | PG India Scholarship | £10,000 (requires 1st/2:1) | ✅ |
-| **Aberdeen** | Global Scholarship | £8,000 | ✅ |
-| **Exeter** | PGT India Scholarship | £10,000 | ✅ |
-| **Royal Holloway** | India Masters Scholarship | £6,000 | ✅ |
-| **Plymouth** | Welcome to Plymouth | £4,000 | ✅ |
-| **UWE Bristol** | International Student | up to £4,000 | ✅ |
-| **Abertay** | International Scholarship | £3,000 | ✅ (only £3k is auto) |
-| **Sheffield Hallam** | VC Award South Asia | £2,000 | ✅ |
-| **Northumbria** | South Asia Regional | 22% discount | ✅ |
-| **Gloucestershire** | India PGT | £4,000 | ✅ |
-| **Edinburgh Napier** | South Asia | £3,000 | ✅ |
+| **Lancaster** | PG India Scholarship | £10,000 (requires 1st/2:1) | ✅ **8.03 ≈ 1st class (70-85%)** — qualifies |
+| **Aberdeen** | Global Scholarship | £8,000 | ✅ Auto for all self-funded international |
+| **Exeter** | PGT India Scholarship | £10,000 | ✅ Auto for India nationals |
+| **Royal Holloway** | India Masters Scholarship | £6,000 | ✅ Auto |
+| **Plymouth** | Welcome to Plymouth | £4,000 | ✅ Auto for all international PGT |
+| **UWE Bristol** | International Student | up to £4,000 | ✅ Auto consideration |
+| **Abertay** | International Scholarship | £3,000 | ✅ Auto (only £3k; £4k extra is competitive) |
+| **Sheffield Hallam** | VC Award South Asia | £2,000 | ✅ Auto for India nationals |
+| **Northumbria** | South Asia Regional | 22% discount | ✅ Auto for South Asia |
+| **Gloucestershire** | India PGT | £4,000 | ✅ Auto |
+| **Edinburgh Napier** | South Asia | £3,000 | ✅ Auto |
 
 ## Notable competitive awards (upside only)
 

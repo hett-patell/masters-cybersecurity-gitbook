@@ -5,9 +5,11 @@
 {% hint style="danger" %}
 | # | Risk | Impact | Action |
 |---|---|---|---|
-| 1 | **CRS score never calculated** | Canada's entire PR case is unverified _for you_ | Run the CRS calculator with real inputs (age 22, IELTS ~7.0, master's, ~1 yr exp) |
-| 2 | **India band at tiered universities** | Could move you from 2:1 to 2:2 at Lancaster, Loughborough, UWE, Aberdeen | Email each asking where NAAC 'A' autonomous, NIRF-participant sits |
-| 3 | **BVM NAAC Cycle-2** | If lapsed, your strongest institutional signal is gone | Ask IQAC for certificate expiry date and Cycle-2 submission status |
+| 1 | **IELTS not taken** | Cannot submit ANY application without a score. SFU deadline is 19 Jan 2027. | **Book IELTS NOW for Nov/Dec 2026** |
+| 2 | **CRS score never calculated** | Canada's entire PR case is unverified _for you_ | Run the CRS calculator with real inputs (age 22, IELTS ~7.0, master's, ~2 yr exp) |
+| 3 | **India band at tiered universities** | Could move you from 2:1 to 2:2 at Lancaster, Loughborough, UWE, Aberdeen | Email each asking where NAAC 'A' autonomous, NIRF-participant sits |
+| 4 | **BVM NAAC Cycle-2** | If lapsed, SFU admission is gone (requires NAAC A). Expires Dec 2027. | Ask IQAC for Cycle-2 submission status |
+| 5 | **Loan not started** | Education loan takes 4-8 weeks. Delays visa application. | Start pre-approval by Nov 2026 |
 {% endhint %}
 
 ## 🟡 Important — affects strategy
@@ -15,11 +17,13 @@
 {% hint style="warning" %}
 | # | Risk | Impact | Status |
 |---|---|---|---|
-| 4 | **SFU fee unconfirmed for 2027 intake** | CAD $55,425 is 2026/27 rate; may change | ⚠️ Verify when 2027 calendar publishes |
-| 5 | **NZ Green List Tier 1 pay threshold** | NZD $145,600/yr is very high for a fresh graduate | Structural risk — plan for 1–2 years of junior work first |
-| 6 | **Graduate employment outcomes unevidenced** | No country has published cyber-specific outcome data | Structural gap — cannot be closed with more research |
-| 7 | **2027/28 UK fees not yet published** | York, Greenwich, Coventry, Teesside, Bournemouth, Edinburgh Napier | Wait for publication; current numbers are 2026/27 |
-| 8 | **Deposit refund policies unpublished** | Coventry, Northumbria, Plymouth, Leeds Beckett, Strathclyde | **Get in writing before paying** |
+| 6 | **Chevening temptation** | You qualify (3,840 hours) but **2-year return-home rule kills settlement goal** | ❌ Skip Chevening |
+| 7 | **SFU CGPA bar** | Your 8.03 barely clears their "8 on 10-point scale" requirement | ⚠️ No room for rounding — verify BVM transcript shows exactly 8.03+ |
+| 8 | **SFU fee unconfirmed for 2027 intake** | CAD $55,425 is 2026/27 rate; may change | ⚠️ Verify when 2027 calendar publishes |
+| 9 | **NZ Green List pay threshold** | NZD $72.80/hr ($151,424/yr) for ICT Security Specialist — very high for a fresh graduate | Structural risk — plan for 1–2 years of junior work first |
+| 10 | **Graduate employment outcomes unevidenced** | No country has published cyber-specific outcome data | Structural gap — cannot be closed with more research |
+| 11 | **2027/28 UK fees not yet published** | York, Greenwich, Coventry, Teesside, Bournemouth, Edinburgh Napier | Wait for publication; current numbers are 2026/27 |
+| 12 | **Deposit refund policies unpublished** | Coventry, Northumbria, Plymouth, Leeds Beckett, Strathclyde | **Get in writing before paying** |
 {% endhint %}
 
 ## ⚠️ Known errors corrected in this book
@@ -38,7 +42,7 @@
 | NZ govt roles | "Citizenship-gated" | PR holders accepted for Police/NZDF |
 | Green List stability | "Changes frequently" | "Regularly reviewed" — structured Cabinet process |
 | IHS rate | £1,035/year | **£776/year** for students |
-| NZ Tier 1 pay | Median wage ($35/hr) | **2× median = $70/hr ($145,600/yr)** |
+| NZ Tier 1 pay | Median wage ($35/hr) | **Role-specific: $72.80/hr ($151,424/yr)** for ICT Security Specialist |
 
 ## 🔍 Unverifiable items
 
