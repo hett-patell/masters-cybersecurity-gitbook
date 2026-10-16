@@ -1,12 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-
 site:
   title: Masters in Cybersecurity — Het Patel
   structure:
     - type: space
       key: space-main
       title: Masters in Cybersecurity
-      path: /
+      path: undefined
       default: true
       content:
         directory: ./
