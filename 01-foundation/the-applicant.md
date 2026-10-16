@@ -10,6 +10,9 @@
 | **Role**           | Junior Cybersecurity Engineer @ Inventyv Software Services          |
 | **Education**      | B.Tech IT — BVM, Vallabh Vidyanagar (2022–2026), CGPA 8.03/10     |
 | **Certification**  | CRTA — Certified Red Team Analyst (CyberWarFare Labs) ✅            |
+| **Certification**  | Google Cybersecurity Specialization (Google Career Certificates) ✅  |
+| **Website**        | [networkshard.com](https://networkshard.com)                       |
+| **LinkedIn**       | [linkedin.com/in/hetpatel9](https://www.linkedin.com/in/hetpatel9) |
 
 ---
 
@@ -47,6 +50,7 @@ A CV that says "Junior Cybersecurity Engineer, Dec 2025–present" **overstates*
 | **CERT-In** — Hall of Fame, October 2025                                         | ⚠️ Page returns HTTP 404 — listed in index but unverifiable                                        |
 | **Zyte** — Responsible Disclosure Hall of Fame                                   | ⚠️ Unverified                                                                                      |
 | **CRTA** — Certified Red Team Analyst                                            | ✅ Real certification by CyberWarFare Labs                                                          |
+| **Google Cybersecurity Specialization** — Google Career Certificates              | ✅ Coursera-issued, Google-branded                                                                  |
 | **TryHackMe** — top 6%, 61 rooms, 9 badges                                      | ⚠️ Unverified                                                                                      |
 
 ### Signature projects (the Shard suite)

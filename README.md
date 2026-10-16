@@ -48,7 +48,9 @@ The goal: decide **where to study** so you can **get a job and stay permanently*
 
 B.Tech Information Technology, BVM Vallabh Vidyanagar (2022–2026), **CGPA 8.03/10**.
 
-**Portfolio:** 3 CVEs (InvenTree, Froxlor ×2) · NASA VDP Hall of Fame + Letter of Recognition · 2× CERT-In Hall of Fame · CRTA · TryHackMe top 6%.
+**Portfolio:** 3 CVEs (InvenTree, Froxlor ×2) · NASA VDP Hall of Fame + Letter of Recognition · 2× CERT-In Hall of Fame · CRTA · Google Cybersecurity Specialization · TryHackMe top 6%.
+
+**Web:** [networkshard.com](https://networkshard.com) · [LinkedIn](https://www.linkedin.com/in/hetpatel9)
 
 {% hint style="info" %}
 The portfolio, not the degree, is the differentiator. Most applicants have a CGPA — very few have published, verifiable vulnerability research.
