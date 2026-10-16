@@ -6,7 +6,7 @@
 | # | Risk | Impact | Action |
 |---|---|---|---|
 | 1 | **IELTS not taken** | Cannot submit ANY application without a score. SFU deadline is 19 Jan 2027. | **Book IELTS NOW for Nov/Dec 2026** |
-| 2 | **CRS score never calculated** | Canada's entire PR case is unverified _for you_ | Run the CRS calculator with real inputs (age 22, IELTS ~7.0, master's, ~2 yr exp) |
+| 2 | **CRS score never calculated** | Canada's entire PR case is unverified _for you_ | Run the CRS calculator with real inputs (age 22, IELTS ~7.0, master's, **~1 yr foreign exp** — only post-graduation counts) |
 | 3 | **India band at tiered universities** | Could move you from 2:1 to 2:2 at Lancaster, Loughborough, UWE, Aberdeen | Email each asking where NAAC 'A' autonomous, NIRF-participant sits |
 | 4 | **BVM NAAC Cycle-2** | If lapsed, SFU admission is gone (requires NAAC A). Expires Dec 2027. | Ask IQAC for Cycle-2 submission status |
 | 5 | **Loan not started** | Education loan takes 4-8 weeks. Delays visa application. | Start pre-approval by Nov 2026 |

@@ -43,14 +43,23 @@ Most applicants from India are 24–28. You have a **2–4 year head start** on 
 | **Dec 2025 – May 2026** | Cybersecurity Engineer **Intern** — Inventyv (via BVM placement) | ~960 hrs |
 | **Jun 2026 – present** | **Junior Cybersecurity Engineer** — Inventyv (promoted) | ~2,400 hrs by Aug 2027 |
 
-{% hint style="info" %}
-**Total by Sept 2027: ~3,840 hours (~24 months)**
+{% hint style="danger" %}
+**⚠️ Not all experience counts the same way.**
 
-This exceeds Chevening's 2,800-hour requirement — but **don't apply for Chevening** (see below).
+| System | What counts | Your qualifying total |
+|---|---|---|
+| 🇨🇦 **Express Entry CRS** | Only **post-graduation, paid, full-time** work | **~15 months** (Jun 2026 – Aug 2027 only) |
+| 📄 **University SOPs** | Everything — shows trajectory | **~24 months / 3,840 hrs** (all three roles) |
+| 🇬🇧 **UK Skilled Worker** | N/A — only future job offer matters | — |
+| 🇳🇿 **NZ Green List** | N/A — only future job offer matters | — |
+
+**Why?** IRCC explicitly excludes work experience gained while enrolled as a **full-time student**. Your Hacker4Help and Inventyv internships were during BTech → they don't count for CRS. Only the post-graduation Junior Cybersecurity Engineer role (Jun 2026+) qualifies.
+
+Your **age (22–23) is doing the heavy lifting** on CRS points anyway. After a Canadian master's + PGWP, you'd earn Canadian work experience — which scores much higher in CRS than foreign experience.
 {% endhint %}
 
 {% hint style="danger" %}
-**⚠️ Chevening trap:** You meet the 2,800-hour bar, but Chevening mandates a **2-year return to India** after graduation. This **directly conflicts** with your #1 goal (settlement abroad). Skip it.
+**⚠️ Chevening trap:** Your total 3,840 hours exceeds Chevening's 2,800-hour bar, but Chevening mandates a **2-year return to India** after graduation. This **directly conflicts** with your #1 goal (settlement abroad). Skip it.
 {% endhint %}
 
 {% hint style="warning" %}

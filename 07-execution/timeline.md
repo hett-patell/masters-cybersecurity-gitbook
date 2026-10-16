@@ -104,21 +104,18 @@
 | **Glasgow** | Admissions rounds |
 {% endhint %}
 
-## Work experience at time of enrollment
+## Work experience — what counts where
 
 {% hint style="info" %}
-By Sept 2027, you'll have **~24 months / ~3,840 hours** of cybersecurity experience:
+By Sept 2027, you'll have **~24 months total** across 3 roles — but **only ~15 months count for immigration.**
 
-| Role | Period | Type |
-|---|---|---|
-| VAPT Intern — Hacker4Help | Apr–Jun 2025 | Internship |
-| Cybersec Intern — Inventyv | Dec 2025–May 2026 | Internship |
-| Junior Cybersec Engineer — Inventyv | Jun 2026–Aug 2027 | Full-time |
+| Role | Period | For SOPs | For Express Entry CRS |
+|---|---|---|---|
+| VAPT Intern — Hacker4Help | Apr–Jun 2025 | ✅ | ❌ During BTech |
+| Cybersec Intern — Inventyv | Dec 2025–May 2026 | ✅ | ❌ During BTech |
+| **Junior Cybersec Engineer — Inventyv** | **Jun 2026–Aug 2027** | ✅ | ✅ **~15 months** |
 
-This gives you:
-- ✅ **Chevening eligibility** (2,800+ hours) — but skip it (return-home rule)
-- ✅ **Strong SOP** — promoted from intern to full-time at same company
-- ✅ **Express Entry boost** — 2 years work experience adds CRS points
+IRCC excludes work done while a full-time student. Your age (22–23 = max CRS points) compensates, and Canadian PGWP experience scores higher than foreign experience anyway.
 {% endhint %}
 
 {% hint style="warning" %}
