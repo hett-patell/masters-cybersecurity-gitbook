@@ -49,7 +49,7 @@ Study (1.5 yrs) → PSWV (3 years) → land ICT Security Specialist job
 |---|---|
 | PSWV | **3 years** ✅ |
 | Green List Tier 1 | **ICT Security Specialist** → **Straight to Residence** ✅✅ |
-| Salary floor | **2× median wage = NZD $70.00/hr ($145,600/yr)** |
+| Salary floor | **ICT Security Specialist: NZD $72.80/hr ($151,424/yr)** |
 | **Realistic total** | **~1–2 years** (after landing qualifying role) |
 
 **The advantage:** no points race, no waiting — apply the moment you hold the job offer.
@@ -65,7 +65,7 @@ Study (1.5 yrs) → PSWV (3 years) → land ICT Security Specialist job
 | Post-study work | 18 months | **3 years** | **3 years** |
 | Open permit? | ✅ | ✅ | ✅ |
 | Sponsor needed after? | **Yes** | No | No (if Green List) |
-| Salary floor | **£41,700** | **None** | **NZD $70/hr** (2× median) |
+| Salary floor | **£41,700** | **None** | **NZD $72.80/hr** (role-specific) |
 | Fastest PR | 5 yrs Skilled Worker | Express Entry | ⭐ **Straight to Residence** |
 | **Realistic PR** | **~6.5–7 yrs** | **~2–3 yrs** | **~1–2 yrs** |
 | Main risk | Sponsorship + salary bar | CRS cut-offs | Small market + high pay bar |

@@ -31,7 +31,7 @@ Health surcharge: **£776/year** (student rate; standard is £1,035) ✅
 
 ## What works for you
 
-* **ATAS:** ✅ Not required for taught cyber MScs. Confirmed: Appendix ATAS 4.1(b) lists 7 engineering/physics codes — no computing.
+* **ATAS:** ⚠️ **Depends on the university's CAH3 code.** General computer science (CAH11-01-01) typically does NOT require ATAS, but cybersecurity courses involving cryptography or information security **may** require it. Always check your CAS/offer letter — the university must declare if ATAS applies.
 * **Your CGPA:** Clears 2:1 at 24/30 universities; first-class at Plymouth and Lancaster.
 * **NCSC certification:** The UK's unique advantage — see [NCSC certification](ncsc-certification.md).
 

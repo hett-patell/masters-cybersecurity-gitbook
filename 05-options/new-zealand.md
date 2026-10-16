@@ -1,6 +1,6 @@
 # 🇳🇿 New Zealand options
 
-5 programmes identified. No NCSC equivalent. Settlement advantage: Green List Tier 1 → Straight to Residence (but at 2× median wage = NZD $145,600/yr).
+5 programmes identified. No NCSC equivalent. Settlement advantage: Green List Tier 1 → Straight to Residence (but at NZD $72.80/hr ≈ $151,424/yr).
 
 {% hint style="info" %}
 NZ fees are **per year** and masters are 1.5–2 years. This is why NZ is the most expensive of the three countries.

@@ -37,12 +37,13 @@ This is the **single best-evidenced claim** in the entire vault:
 
 ### ⚠️ The pay threshold is HIGH
 
-Tier 1 Straight to Residence requires remuneration at **2× median wage**:
+Tier 1 Straight to Residence for **ICT Security Specialist (ANZSCO 262112)** requires a role-specific minimum remuneration:
 
 | | Amount |
 |---|---|
 | NZ median wage (from 9 Mar 2026) | NZD $35.00/hr ≈ NZD $72,800/yr ✅ |
-| **Green List Tier 1 threshold (2×)** | **NZD $70.00/hr ≈ NZD $145,600/yr** |
+| **Green List Tier 1 — ICT Security Specialist** | **NZD $72.80/hr ≈ NZD $151,424/yr** |
+| Contract for services rate | NZD $109.20/hr + 10 yrs experience |
 
 {% hint style="warning" %}
 That's a **very high bar for a fresh graduate.** Realistically: graduate → junior role → 1–2 years experience → qualifying role → apply.

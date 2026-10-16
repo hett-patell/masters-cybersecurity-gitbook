@@ -4,9 +4,9 @@
 Transparency is the point. Every error found is listed here so you know what was corrected and what might still be wrong.
 {% endhint %}
 
-## Errors found by independent verification (2026-10-15)
+## Errors found by independent verification (2026-10-15, updated 2026-10-16)
 
-46 claims checked by 6 AI agents. **8 proven wrong, 3 need nuance.** All corrected throughout this book.
+50 claims checked across 2 rounds. **8 proven wrong, 5 need nuance.** All corrected throughout this book.
 
 ### ❌ Proven wrong
 
@@ -27,8 +27,9 @@ Transparency is the point. Every error found is listed here so you know what was
 |---|---|---|
 | 9 | **Abertay "£3,000–£7,000 automatic"** | Only £3,000 is automatic; £4,000 extra is the competitive Principal's Excellence Scholarship |
 | 10 | **SFU total fee ~CAD $40,425** | Actual: **CAD $55,425** — the lower figure subtracted a competitive award |
-| 11 | **NZ Tier 1 pay threshold = "median wage"** | Actually **2× median = NZD $70/hr ($145,600/yr)** — much higher |
+| 11 | **NZ Tier 1 pay threshold = "2× median = $70/hr"** | The actual INZ rate for ICT Security Specialist (262112) is **NZD $72.80/hr ($151,424/yr)** — role-specific, not a simple 2× median |
 | 12 | **Green List "changes frequently"** | Official language: **"regularly reviewed"** via Cabinet process |
+| 13 | **ATAS "not required for taught cyber MScs"** | **Depends on the CAH3 code** assigned by each university. Cybersecurity courses involving cryptography/infosec may trigger ATAS. Always check your CAS. |
 
 ### 🔄 Verification agent was itself wrong
 
