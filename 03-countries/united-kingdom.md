@@ -22,16 +22,18 @@ Study (1 yr) → Graduate visa (18 months) → find sponsor paying £33,400–41
 
 ## Proof of funds ✅
 
-| Location           | Monthly | Total (9 months) |
-| ------------------ | ------- | ---------------- |
-| **Outside London** | £1,171  | £10,539          |
-| **London**         | £1,529  | £13,761          |
+| Location           | Monthly | Total (9 months) | Effective |
+| ------------------ | ------- | ---------------- | --------- |
+| **Outside London** | £1,203  | £10,827          | From 30 Nov 2026 |
+| **London**         | £1,570  | £14,130          | From 30 Nov 2026 |
+
+> Previous rates (£1,171 / £1,529) applied to applications before 30 Nov 2026. Since you'll apply mid-2027, only the **new rates** matter.
 
 Health surcharge: **£776/year** (student rate; standard is £1,035) ✅
 
 ## What works for you
 
-* **ATAS:** ⚠️ **Depends on the university's CAH3 code.** General computer science (CAH11-01-01) typically does NOT require ATAS, but cybersecurity courses involving cryptography or information security **may** require it. Always check your CAS/offer letter — the university must declare if ATAS applies.
+* **ATAS:** ⚠️ **Likely required.** Cybersecurity MScs are typically classified under CAH11-01-01 (Computer Science) or CAH11-01-03 (Information Systems) — both are in Appendix ATAS. Indian nationals are not exempt. **Check your CAS** — the university must declare if ATAS applies. Apply early: free, but takes **30+ working days**.
 * **Your CGPA:** Clears 2:1 at 24/30 universities; first-class at Plymouth and Lancaster.
 * **NCSC certification:** The UK's unique advantage — see [NCSC certification](ncsc-certification.md).
 

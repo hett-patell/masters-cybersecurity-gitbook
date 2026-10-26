@@ -6,14 +6,14 @@ Transparency is the point. Every error found is listed here so you know what was
 
 ## Errors found by independent verification (2026-10-15, updated 2026-10-16)
 
-50 claims checked across 2 rounds. **8 proven wrong, 5 need nuance.** All corrected throughout this book.
+50 claims checked across 2 rounds. **8 proven wrong, 6 need nuance.** All corrected throughout this book.
 
 ### ❌ Proven wrong
 
 | # | Error | What the vault said | What's true | Impact |
 |---|---|---|---|---|
 | 1 | **NZ proof of funds** | NZD $5,000 | **NZD $20,000/year** | 4× understated. The $5,000 is for PSWV, not student visa. |
-| 2 | **UK proof of funds** | £1,529 outside London, £1,171 London | **Inverted.** £1,529 = London, £1,171 = outside. | Misleading for budget planning |
+| 2 | **UK proof of funds** | £1,529 outside London, £1,171 London | **Inverted.** £1,529 = London, £1,171 = outside. *Further: from 30 Nov 2026, rates increase to £1,570 / £1,203.* | Misleading for budget planning |
 | 3 | **Chevening rule** | "Degree must be 2 years old" | **2,800 hours work experience** after graduation | Wrong reasoning, similar conclusion |
 | 4 | **Canada scholarships** | "No India-specific awards at any Canadian university" | **Wrong.** Carleton, Alberta, Toronto have them. | Overly pessimistic about Canada |
 | 5 | **Calgary MISP fee** | CAD $27,237 | **CAD $50,465** (current published rate) | Nearly doubled — changes affordability |
@@ -29,7 +29,8 @@ Transparency is the point. Every error found is listed here so you know what was
 | 10 | **SFU total fee ~CAD $40,425** | Actual: **CAD $55,425** — the lower figure subtracted a competitive award |
 | 11 | **NZ Tier 1 pay threshold = "2× median = $70/hr"** | The actual INZ rate for ICT Security Specialist (262112) is **NZD $72.80/hr ($151,424/yr)** — role-specific, not a simple 2× median |
 | 12 | **Green List "changes frequently"** | Official language: **"regularly reviewed"** via Cabinet process |
-| 13 | **ATAS "not required for taught cyber MScs"** | **Depends on the CAH3 code** assigned by each university. Cybersecurity courses involving cryptography/infosec may trigger ATAS. Always check your CAS. |
+| 13 | **ATAS "not required for taught cyber MScs"** | **Likely required.** Cybersecurity MScs under CAH11-01-01 / CAH11-01-03 are listed in Appendix ATAS. Indian nationals are not exempt. Always check your CAS — but **plan for it** (free, 30+ working days). |
+| 14 | **UK maintenance rates** | Book used pre-Nov 2026 rates (£1,171 / £1,529). From **30 Nov 2026**, new rates apply: **£1,203 outside London / £1,570 London**. Since Het applies mid-2027, all figures now use the new rates. |
 
 ### 🔄 Verification agent was itself wrong
 

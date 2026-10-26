@@ -16,7 +16,7 @@ Indian banks lend against an admit letter. Key facts:
 
 {% tabs %}
 {% tab title="🇬🇧 UK" %}
-**Proof needed:** £10,539–£13,761 (living) + tuition
+**Proof needed:** £10,827–£14,130 (living, from Nov 2026) + tuition
 
 **Loan accepted?** ✅ Yes — loan sanction letter accepted
 {% endtab %}

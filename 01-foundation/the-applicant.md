@@ -142,8 +142,8 @@ Funded by **education loan**. No savings-based funding. This means:
 
 | Country | Cheapest realistic option | Total cost (₹) | Fits? |
 |---|---|---|---|
-| 🇬🇧 UK | Plymouth (~£26,100) | **~₹27L** | ✅ Very comfortable |
-| 🇬🇧 UK | Sheffield Hallam (~£29,500) | **~₹31L** | ✅ Comfortable |
+| 🇬🇧 UK | Plymouth (~£27,400) | **~₹29L** | ✅ Very comfortable |
+| 🇬🇧 UK | Sheffield Hallam (~£30,100) | **~₹32L** | ✅ Comfortable |
 | 🇨🇦 Canada | Concordia (~CAD $54,000) | **~₹33L** | ✅ Good |
 | 🇨🇦 Canada | Calgary (~CAD $68,000) | **~₹42L** | ✅ Fits |
 | 🇨🇦 Canada | SFU (~CAD $79,000) | **~₹48L** | ⚠️ Tight — upper budget |

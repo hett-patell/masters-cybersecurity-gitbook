@@ -31,7 +31,7 @@
 | Error | What the vault said | What's actually true |
 |---|---|---|
 | NZ proof of funds | NZD $5,000 | **NZD $20,000/year** (student visa) |
-| UK proof of funds | £1,529 outside London, £1,171 London | **Inverted**: £1,529 = London, £1,171 = outside |
+| UK proof of funds | £1,529 outside London, £1,171 London | **Inverted**: £1,529 = London, £1,171 = outside. *Note: from 30 Nov 2026, new rates apply: £1,570 London / £1,203 outside.* |
 | Chevening rule | "Degree must be 2 years old" | **2,800 hours of work experience** after graduation |
 | Canada scholarships | "No India-specific awards exist" | Wrong — Carleton, Alberta, Toronto have them |
 | Plymouth NCSC | ❌ Verification agent said "only BSc certified" | ✅ **Both BSc AND MSc are certified** — MSc to 30/09/2028 (verified on live NCSC register 2026-10-15) |
