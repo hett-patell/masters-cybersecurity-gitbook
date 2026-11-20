@@ -1,0 +1,120 @@
+site_name: Masters in Cybersecurity — Het Patel
+site_description: Settlement-first research for a cybersecurity master's abroad — UK, Canada, New Zealand — September 2027 intake.
+site_author: Het Patel
+site_url: https://hett-patell.github.io/masters-cybersecurity-gitbook/
+
+repo_name: hett-patell/masters-cybersecurity-gitbook
+repo_url: https://github.com/hett-patell/masters-cybersecurity-gitbook
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/cover.png
+  favicon: assets/cover.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hett-patell
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hetpatel9
+    - icon: fontawesome/solid/globe
+      link: https://networkshard.com
+
+copyright: "&copy; 2026 Het Patel"
+
+nav:
+  - Home: README.md
+  - Start here:
+    - 🎯 The decision: 00-introduction/the-decision.md
+    - 📐 How to read this: 00-introduction/how-to-use.md
+  - Your foundation:
+    - 📖 Overview: 01-foundation/README.md
+    - 👤 The applicant: 01-foundation/the-applicant.md
+    - 🏛️ Your college — verified: 01-foundation/your-college.md
+    - 🎓 Degree & equivalency: 01-foundation/your-degree.md
+  - Getting in:
+    - 📖 Overview: 02-getting-in/README.md
+    - 🗣️ English — IELTS & alternatives: 02-getting-in/english.md
+    - ⚖️ The "2:1" bar: 02-getting-in/india-equivalency.md
+    - 📄 Documents & deadlines: 02-getting-in/documents.md
+  - The three countries:
+    - 🌍 Overview: 03-countries/README.md
+    - 🇬🇧 United Kingdom: 03-countries/united-kingdom.md
+    - 🇨🇦 Canada: 03-countries/canada.md
+    - 🇳🇿 New Zealand: 03-countries/new-zealand.md
+    - ✅ NCSC certification: 03-countries/ncsc-certification.md
+  - Settlement:
+    - 🧭 Overview: 04-settlement/README.md
+    - 🛂 The three routes: 04-settlement/routes-compared.md
+    - 💼 The job market: 04-settlement/job-market.md
+    - 🔥 Ground truth: 04-settlement/ground-truth.md
+  - Every option:
+    - 📖 Overview: 05-options/README.md
+    - 🇬🇧 UK options: 05-options/uk.md
+    - 🇨🇦 Canada options: 05-options/canada.md
+    - 🇳🇿 New Zealand options: 05-options/new-zealand.md
+  - Money:
+    - 💰 Overview: 06-money/README.md
+    - 🧾 What it costs: 06-money/costs.md
+    - 🎁 Scholarships: 06-money/scholarships.md
+    - 🚫 Scholarships to avoid: 06-money/forbidden.md
+    - 🏦 Loans: 06-money/loans.md
+  - Execution:
+    - 📖 Overview: 07-execution/README.md
+    - 📅 Timeline: 07-execution/timeline.md
+    - ⚠️ Risks & open questions: 07-execution/risks.md
+  - Appendix:
+    - 🔬 Method: 08-appendix/method.md
+    - 🔴 What we got wrong: 08-appendix/what-went-wrong.md
+    - 🔗 Sources: 08-appendix/sources.md
